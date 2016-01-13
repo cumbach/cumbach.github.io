@@ -2071,11 +2071,12 @@
 		.image.fit {
 			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 340px;
 		}
 
 			.image.fit img {
 				width: 100%;
+				height: 230px;
 			}
 
 		.image.avatar {
@@ -2441,20 +2442,20 @@
 
 /* Work Item */
 
-	.work-item {
+	.desc {
 		margin: 0 0 2em 0;
 	}
 
-		.work-item .image {
+		.desc .image {
 			margin: 0 0 1.5em 0;
 		}
 
-		.work-item h3 {
+		.desc h3 {
 			font-size: 1em;
 			margin: 0 0 0.5em 0;
 		}
 
-		.work-item p {
+		.desc p {
 			font-size: 0.8em;
 			line-height: 1.5em;
 			margin: 0;
